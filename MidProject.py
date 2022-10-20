@@ -8,11 +8,11 @@ import koreanize_matplotlib
 
 st.set_page_config(
     page_title="1론머스크 MidProject",
-    page_icon="🚗",
+    page_icon="🚀",
     layout="wide",
 )
 
-st.markdown("# 🚀1론머스크")
+st.markdown("# 🚀1론머스크🚀")
 st.sidebar.markdown("# 공공데이터")
 
 url = ["https://raw.githubusercontent.com/chihyuns0ng/AIS7MidProject/main/data/kosis3_19.csv"
